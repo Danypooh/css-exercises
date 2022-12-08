@@ -1,0 +1,15 @@
+/* stylesheet */
+.me,
+.me2 {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.me {
+  background-color: rgb(0, 0, 0);
+  color: #ffffff;
+}
+
+.me2 {
+  background-color: hsl(60, 100%, 50%);
+}
